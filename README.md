@@ -7,7 +7,7 @@
 ```js
 const PandaDouxYT = {
     age: 19,
-    description: "📢 Student at HEH Mons (IT, networks & telecommunications) & Web Developer",
+    description: "Web Developer & Graphic Designer 🌐",
     languages: ["French", "English", "Dutch"],
     friends: Too Much,
     webLanguages: ["HTML", "CSS", "JavaScript", "PHP"],
