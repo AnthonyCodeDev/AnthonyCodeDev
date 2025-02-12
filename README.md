@@ -18,7 +18,7 @@ const Anthony = {
 ```
 ## 🛠️ Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" onerror="this.onerror=null; this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dialog-error-round.svg/2048px-Dialog-error-round.svg.png';"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
