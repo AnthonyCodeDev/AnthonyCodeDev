@@ -18,10 +18,10 @@ const Anthony = {
 ```
 ## 🛠️ Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
+<img align="left" alt="CSS3" width="26px" src="https://icones.pro/wp-content/uploads/2022/08/css3.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3trC6fXt8b08REvg_8czw3IVtGsGH9yqjUg&s" />
 <img align="left" alt="PHP" width="26px" src="https://www.shareicon.net/data/256x256/2015/10/06/112719_development_512x512.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="C" width="26px" src="https://play-lh.googleusercontent.com/SlwksJ2T3l8puTazBhRUFKzp7IEh6WkXqTjhA13OWviRLmiVVY7kyKPlWNW2WN1PzeBR" />
@@ -29,8 +29,8 @@ const Anthony = {
 <img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" />
 <img align="left" alt="Npm" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-npm-226037.png?f=webp" />
-<img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" />
+<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" alt="React Native" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp" />
 <br>
