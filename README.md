@@ -34,12 +34,6 @@ const Anthony = {
 <img align="left" alt="React Native" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp" />
 <br>
-    
-## 📬 Contact
-- [Website](https://anthonycode.fr)
-- [Twitter](https://x.com/anthonycodefr)
-- [LinkedIn](https://www.linkedin.com/in/anthony-vergeylen/)
-- [contact@anthonycode.fr](mailto:contact@anthonycode.fr)
    
 <br><br>
 <p align="center">
