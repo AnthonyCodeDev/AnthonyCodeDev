@@ -25,7 +25,7 @@ const Anthony = {
 <img align="left" alt="PHP" width="26px" src="https://www.shareicon.net/data/256x256/2015/10/06/112719_development_512x512.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="C" width="26px" src="https://play-lh.googleusercontent.com/SlwksJ2T3l8puTazBhRUFKzp7IEh6WkXqTjhA13OWviRLmiVVY7kyKPlWNW2WN1PzeBR" />
-<img align="left" alt="Node.js" width="26px" src="https://assets.stickpng.com/images/62a7524a223343fbc2207d08.png" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp" />
 <img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" />
 <img align="left" alt="Npm" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-npm-226037.png?f=webp" />
